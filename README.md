@@ -1,2 +1,2 @@
 # applab
-Great repository names are short and memorable. Need inspiration? How about bug-free-octo-garbanzo? 
+ https://arpasaha-as.github.io/applab/ 
